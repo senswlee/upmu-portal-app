@@ -1,0 +1,8 @@
+# API 키가 들어 있는 파일은 절대 올리지 않음
+.streamlit/secrets.toml
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+.DS_Store
